@@ -12,8 +12,5 @@ description: > # this means to ignore newlines until "baseurl:"
   Now is the best.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nowsyn.github.io" # the base hostname & protocol for your site
-twitter_username:
-github_username: nowsyn
-
 # Build settings
 markdown: kramdown
